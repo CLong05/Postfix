@@ -17,7 +17,7 @@
 - build.bat：编译所有源代码的脚本文件（批命令） 
 - run.bat：运行程序的脚本
 
-- design.pdf：描述你的面向对象设计结果的 Word 文档 ，其中包括 UML 类图及其说明
+- design.pdf：描述面向对象设计结果的 Word 文档 ，其中包括 UML 类图及其说明
 - readme.txt：关于实验完成人基本信息、提交结果描述、实验心得等的补充说明文档 
 -   Lab03-Postfix.pdf：本次实验要求
 
