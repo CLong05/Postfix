@@ -41,6 +41,6 @@ Document description:
 - build.bat: script file that compiles all source code (batch command)
 - run.bat: indicates the script that runs the program
 
-- design.pdf: A Word document that describes the results of your object-oriented design, including UML class diagrams and their descriptions
+- design.pdf: A Word document that describes the results of object-oriented design, including UML class diagrams and their descriptions
 - readme.txt: Supplementary document about the basic information, description of the submitted results, and experience of the experiment
 - Lab03-Postfix.pdf: Requirements for this experiment
