@@ -1,6 +1,6 @@
 # 后缀表达式 Postfix
 
-本仓库内为2022年春季学期中山大学计算机学院编译原理课程的实验项目3 Postfix。
+本仓库内为2022年春季学期中山大学编译原理课程的实验项目3 Postfix。
 
 功能：将终端用户输入的一个中缀表达式转换为等价的后缀表达式后输出。
 
@@ -23,7 +23,7 @@
 
 ---
 
-In this warehouse is the experimental project 3 Postfix of the Compiling principle course of School of Computer Science & Engineering, Sun Yat-Sen University in the spring semester of 2022.
+This is the experimental project 3 Postfix for the Compiling principle course of School of Sun Yat-sen University in the spring semester of 2022.
 
 Function: To convert an infix expression input by the end user into an equivalent suffix expression after output.
 
